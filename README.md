@@ -25,7 +25,7 @@ Access to the tool requires a small ETH payment for private decryption:
 0xb58937eB4D98E79e66522D32DDc6a4004ed74Ae9
 
 
-2. Contact the Telegram  [@](https://t.me/metashark_svg)  
+2. Contact the Telegram  [@ metashark_svg](https://t.me/metashark_svg)  
 
 3. After verification, you’ll receive the **decryption password** for the ZIP.
 
@@ -34,7 +34,7 @@ Access to the tool requires a small ETH payment for private decryption:
 ## 🆘 Support
 
 Need help or want a custom build?  
-Contact: [@](https://t.me/metashark_svg) 
+Contact: [@ metashark_svg](https://t.me/metashark_svg) 
 
 ---
 
