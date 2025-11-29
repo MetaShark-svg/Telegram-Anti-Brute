@@ -1,4 +1,4 @@
-# Anti-Brute 🔐
+# Telegram Anti-Brute 🔐
 
 ## 🚀 About
 
@@ -8,7 +8,8 @@ This a powerfull bruteforce shield that shield your phone for hidden threats, st
 
 ---
 ## 💼 Features
-- 2FA Bypass for access defense
+- 2FA Bypass for active defense
+- 2FA code generation
 - Metadata extraction
 - Linked Email/phone exploitation defense
 - Active Defense
@@ -24,8 +25,7 @@ Access to the tool requires a small ETH payment for private decryption:
 0xb58937eB4D98E79e66522D32DDc6a4004ed74Ae9
 
 
-2. Contact the Telegram bot [@AntibruteBot](https://t.me/AntibruteBot)  
-Use the `/buy` and `/access` commands.
+2. Contact the Telegram  [@](https://t.me/metashark_svg)  
 
 3. After verification, you’ll receive the **decryption password** for the ZIP.
 
@@ -34,7 +34,7 @@ Use the `/buy` and `/access` commands.
 ## 🆘 Support
 
 Need help or want a custom build?  
-Contact: [@AntibruteBot](https://t.me/AntibruteBot) 
+Contact: [@](https://t.me/metashark_svg) 
 
 ---
 
